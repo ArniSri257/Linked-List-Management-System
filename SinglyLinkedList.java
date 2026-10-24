@@ -4,14 +4,22 @@ class SinglyLinkedList{
 	public Node head;
 	
 	void display() {
-		Node temp;
-		temp=head;
-		while(temp!= null) {
-			System.out.println(temp.data);
-			temp=temp.next;
-		}
-		System.out.println("-------------");}
-	
+	    if (head == null) {
+	        System.out.println("List is empty");
+	        return;
+	    }
+	    Node temp = head;
+	    while (temp != null) {
+	        System.out.print(temp.data);
+
+	        if (temp.next != null) {
+	            System.out.print(" -> ");
+	        }
+	        temp = temp.next;
+	    }
+
+	    System.out.println();
+	}
 	void insertAtBeginning(int val) {
 		Node node= new Node(val);
 		node.next= head;
