@@ -1,0 +1,1128 @@
+
+===== LINKED LIST MANAGEMENT SYSTEM =====
+1. Singly Linked List
+2. Doubly Linked List
+3. Exit
+Enter your choice: 1
+Singly Linked List Selected
+
+TEST 1: SINGLY LINKED LIST — INSERTION AND DISPLAY
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 1
+Enter value: 10
+
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 2
+Enter value: 20
+
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 2
+Enter value: 30
+
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 12
+10 -> 20 -> 30
+
+TEST 2: SINGLY LINKED LIST — SEARCH, UPDATE, DELETE, REVERSE
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 10
+Enter value: 20
+Value at: 2
+
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 11
+Enter value to be replaced: 30
+Enter new value: 60
+
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 12
+10 -> 20 -> 60
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 6
+
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 12
+20 -> 60
+
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 8
+Enter position: 2
+
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 12
+20
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 12
+10 -> 20 -> 30 -> 40 -> 50
+
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 17
+50 -> 40 -> 30 -> 20 -> 10
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 20
+Returning to main menu...
+
+#TEST 3: DOUBLY LINKED LIST — FORWARD AND BACKWARD DISPLAY
+===== LINKED LIST MANAGEMENT SYSTEM =====
+1. Singly Linked List
+2. Doubly Linked List
+3. Exit
+Enter your choice: 2
+Doubly Linked List Selected
+
+********** Operation on Doubly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display Forward
+13. Display Backward
+14. Count Nodes
+15. Find Maximum
+16. Find Minimum
+17. Find Middle Element
+18. Reverse
+19. Sort
+20. Remove Duplicates
+21. Exit
+Enter the choice: 1
+Enter value: 10
+
+********** Operation on Doubly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display Forward
+13. Display Backward
+14. Count Nodes
+15. Find Maximum
+16. Find Minimum
+17. Find Middle Element
+18. Reverse
+19. Sort
+20. Remove Duplicates
+21. Exit
+Enter the choice: 2
+Enter value: 20
+
+********** Operation on Doubly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display Forward
+13. Display Backward
+14. Count Nodes
+15. Find Maximum
+16. Find Minimum
+17. Find Middle Element
+18. Reverse
+19. Sort
+20. Remove Duplicates
+21. Exit
+Enter the choice: 2
+Enter value: 30
+
+********** Operation on Doubly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display Forward
+13. Display Backward
+14. Count Nodes
+15. Find Maximum
+16. Find Minimum
+17. Find Middle Element
+18. Reverse
+19. Sort
+20. Remove Duplicates
+21. Exit
+Enter the choice: 2
+Enter value: 40
+
+********** Operation on Doubly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display Forward
+13. Display Backward
+14. Count Nodes
+15. Find Maximum
+16. Find Minimum
+17. Find Middle Element
+18. Reverse
+19. Sort
+20. Remove Duplicates
+21. Exit
+Enter the choice: 2
+Enter value: 50
+
+********** Operation on Doubly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display Forward
+13. Display Backward
+14. Count Nodes
+15. Find Maximum
+16. Find Minimum
+17. Find Middle Element
+18. Reverse
+19. Sort
+20. Remove Duplicates
+21. Exit
+Enter the choice: 12
+10
+20
+30
+40
+50
+-------------
+
+********** Operation on Doubly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display Forward
+13. Display Backwards
+14. Count Nodes
+15. Find Maximum
+16. Find Minimum
+17. Find Middle Element
+18. Reverse
+19. Sort
+20. Remove Duplicates
+21. Exit
+Enter the choice: 13
+50
+40
+30
+20
+10
+-------------
+
+TEST 4: EDGE TEST CASES
+
+  TEST 1: EMPTY LINKED LIST
+
+===== LINKED LIST MANAGEMENT SYSTEM =====
+1. Singly Linked List
+2. Doubly Linked List
+3. Exit
+Enter your choice: 1
+Singly Linked List Selected
+
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 12
+List is empty
+
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 6
+List is empty
+
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 14
+List is empty
+
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 20
+Returning to main menu...
+
+===== LINKED LIST MANAGEMENT SYSTEM =====
+1. Singly Linked List
+2. Doubly Linked List
+3. Exit
+Enter your choice: 3
+Exiting Program...
+
+  TEST 2: SINGLE NODE TEST
+
+===== LINKED LIST MANAGEMENT SYSTEM =====
+1. Singly Linked List
+2. Doubly Linked List
+3. Exit
+Enter your choice: 1
+Singly Linked List Selected
+
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 1
+Enter value: 24
+
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 12
+24
+
+********** Operations on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 7
+
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 12
+List is empty
+
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 20
+Returning to main menu...
+
+===== LINKED LIST MANAGEMENT SYSTEM =====
+1. Singly Linked List
+2. Doubly Linked List
+3. Exit
+Enter your choice: 3
+Exiting Program...
+
+  TEST 3: INVALID POSITIONS
+
+===== LINKED LIST MANAGEMENT SYSTEM =====
+1. Singly Linked List
+2. Doubly Linked List
+3. Exit
+Enter your choice: 1
+Singly Linked List Selected
+
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 1
+Enter value: 10
+
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 1
+Enter value: 20
+
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 3
+Enter value: 30
+Enter position: 
+0
+Invalid position
+
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 8
+Enter position: 10
+Position out of bound
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 20
+Returning to main menu...
+
+===== LINKED LIST MANAGEMENT SYSTEM =====
+1. Singly Linked List
+2. Doubly Linked List
+3. Exit
+Enter your choice: 3
+Exiting Program...
+
+  TEST 4: SEARCHING FOR MISSING VALUE
+
+===== LINKED LIST MANAGEMENT SYSTEM =====
+1. Singly Linked List
+2. Doubly Linked List
+3. Exit
+Enter your choice: 1
+Singly Linked List Selected
+
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 1
+Enter value: 10
+
+********** Operation on Singly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle Element
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
+Enter the choice: 10
+Enter value: 99
+Value not in list
+
+  TEST 5: DOUBLY LINKED LIST FORWARD AND BACKWARD
+
+===== LINKED LIST MANAGEMENT SYSTEM =====
+1. Singly Linked List
+2. Doubly Linked List
+3. Exit
+Enter your choice: 2
+Doubly Linked List Selected
+
+********** Operation on Doubly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display Forward
+13. Display Backward
+14. Count Nodes
+15. Find Maximum
+16. Find Minimum
+17. Find Middle Element
+18. Reverse
+19. Sort
+20. Remove Duplicates
+21. Exit
+Enter the choice: 2
+Enter value: 10
+
+********** Operation on Doubly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display Forward
+13. Display Backward
+14. Count Nodes
+15. Find Maximum
+16. Find Minimum
+17. Find Middle Element
+18. Reverse
+19. Sort
+20. Remove Duplicates
+21. Exit
+Enter the choice: 2
+Enter value: 20
+
+********** Operation on Doubly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display Forward
+13. Display Backward
+14. Count Nodes
+15. Find Maximum
+16. Find Minimum
+17. Find Middle Element
+18. Reverse
+19. Sort
+20. Remove Duplicates
+21. Exit
+Enter the choice: 2
+Enter value: 30
+
+********** Operation on Doubly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display Forward
+13. Display Backwards
+14. Count Nodes
+15. Find Maximum
+16. Find Minimum
+17. Find Middle Element
+18. Reverse
+19. Sort
+20. Remove Duplicates
+21. Exit
+Enter the choice: 12
+10
+20
+30
+-------------
+
+********** Operation on Doubly Linked List **********
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Node
+5. Insert Before a Node
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display Forward
+13. Display Backward
+14. Count Nodes
+15. Find Maximum
+16. Find Minimum
+17. Find Middle Element
+18. Reverse
+19. Sort
+20. Remove Duplicates
+21. Exit
+Enter the choice: 13
+30
+20
+10
+-------------
+
+
+
+
+
+
